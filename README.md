@@ -115,16 +115,13 @@ Implements automated analytical set evaluations to instantly extract a distinct,
 Below are the screen capture validations documenting the end-to-end active terminal pipeline for the script:
 
 ### 1. Administrative Panel & Student Insertion
-![Add Student Terminal Pipeline](<img width="1920" height="1041" alt="pr-2 1" src="https://github.com/user-attachments/assets/e9596f24-8637-42a5-9c59-7b5574ce8b25" />
-)
+![Add Student Terminal Pipeline](<img width="1920" height="1041" alt="pr-2 1" src="https://github.com/user-attachments/assets/e9596f24-8637-42a5-9c59-7b5574ce8b25" />)
 
 ### 2. Comprehensive Database View & Data Updates
-![Display and Update Operations Terminal Flow](<img width="1920" height="1042" alt="pr-2 2" src="https://github.com/user-attachments/assets/589f6b9c-ffbe-4d5a-91ef-bf2d76162647" />
-)
+![Display and Update Operations Terminal Flow](<img width="1920" height="1042" alt="pr-2 2" src="https://github.com/user-attachments/assets/589f6b9c-ffbe-4d5a-91ef-bf2d76162647" />)
 
 ### 3. Course Aggregation & Record Deletion
-![Subject Aggregation and Record Deletion](<img width="1920" height="550" alt="pr-2 3" src="https://github.com/user-attachments/assets/654e91fe-2cf0-4f8b-afe9-e3cb44552e73" />
-)
+![Subject Aggregation and Record Deletion](<img width="1920" height="550" alt="pr-2 3" src="https://github.com/user-attachments/assets/654e91fe-2cf0-4f8b-afe9-e3cb44552e73" />)
 
 ---
 
