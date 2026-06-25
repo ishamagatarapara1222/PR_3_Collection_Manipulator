@@ -1,3 +1,4 @@
+<img width="1920" height="1042" alt="pr-2 2" src="https://github.com/user-attachments/assets/570ffc12-c8b5-4b4a-ae7d-0ca89d45e3a4" />
 # PR_3_Collection_Manipulator
 
 <p align="center">
@@ -119,9 +120,11 @@ Below are the screen capture validations documenting the end-to-end active termi
 
 
 ### 2. Comprehensive Database View & Data Updates
+<img width="1920" height="1042" alt="pr-2 2" src="https://github.com/user-attachments/assets/741d0676-bed9-42eb-ae91-db2b99b34340" />
 
 
 ### 3. Course Aggregation & Record Deletion
+<img width="1920" height="550" alt="pr-2 3" src="https://github.com/user-attachments/assets/bd8d9e47-c613-4dc0-855b-bd8659bc5eb6" />
 
 
 ---
