@@ -1,4 +1,3 @@
-<img width="1920" height="1042" alt="pr-2 2" src="https://github.com/user-attachments/assets/570ffc12-c8b5-4b4a-ae7d-0ca89d45e3a4" />
 # PR_3_Collection_Manipulator
 
 <p align="center">
